@@ -3,8 +3,6 @@
 
 Day 8 of my daily coding challenge focuses on implementing the Fibonacci series using C++. The program generates the Fibonacci sequence up to a user-defined number of terms using an iterative approach, ensuring efficient execution and minimal memory usage.
 
-This task strengthens understanding of looping constructs, function design, and sequence-based logic commonly asked in technical interviews and programming exams.
-
 # Features
 
 Generates Fibonacci series up to n terms
